@@ -1,1 +1,13 @@
 AGENTS.md
+
+# Local Python environments and generated files
+.venv/
+.venv-robot/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Large generated experiment artifacts
+videos/
+checkpoints/
+tensorboard/
